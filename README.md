@@ -1,6 +1,8 @@
 # Aruzhan-Altynbek
 Sales Performance Dashboard | Power BI
+
 Project Overview
+
 This project presents an interactive Power BI dashboard developed to analyze sales performance, profitability, customer behavior, and product category efficiency using the Superstore dataset.
 The dashboard helps transform raw transactional data into actionable business insights through KPI monitoring, trend analysis, customer segmentation, and profitability assessment.
 Tools: Power BI, Power Query, DAX
@@ -64,16 +66,20 @@ Previous Period Amount
 Year-over-Year %
 
 Key Insights
+
 Sales Performance
 Total Sales exceeded 12.6 million.
 Total Profit reached approximately 1.47 million.
 Overall profit margin was 11.6%.
+
 Product Performance
 Technology generated the highest profit and margin among all categories.
 Furniture produced high sales volume but lower profitability compared to Technology.
+
 Customer Analysis
 Customer spending patterns showed significant variation between segments.
 Several high-revenue customers generated substantially higher profit than the average customer.
+
 Operations
 Standard Class was the most frequently used shipping method.
 Monthly profit trends demonstrated stable growth with seasonal fluctuations.
