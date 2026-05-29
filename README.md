@@ -61,7 +61,9 @@ Shipping methods
 Monthly profit trends
 
 DAX Measures
+
 The following measures were created:
+
 Total Sales
 Total Cost
 Gross Profit
@@ -73,24 +75,24 @@ Year-over-Year %
 
 Key Insights
 
-Sales Performance
+Sales Performance:
 Total Sales exceeded 12.6 million.
 Total Profit reached approximately 1.47 million.
 Overall profit margin was 11.6%.
 
-Product Performance
+Product Performance:
 Technology generated the highest profit and margin among all categories.
 Furniture produced high sales volume but lower profitability compared to Technology.
 
-Customer Analysis
+Customer Analysis:
 Customer spending patterns showed significant variation between segments.
 Several high-revenue customers generated substantially higher profit than the average customer.
 
-Operations
+Operations:
 Standard Class was the most frequently used shipping method.
 Monthly profit trends demonstrated stable growth with seasonal fluctuations.
 
-Dashboard Features
+Dashboard Features:
 Interactive filters and slicers
 Drill-down analysis
 Dynamic KPI cards
@@ -100,7 +102,7 @@ Year-over-Year comparison
 Conditional formatting
 Reset filter functionality
 
-Skills Demonstrated
+Skills Demonstrated:
 Business Intelligence
 Data Visualization
 Data Modeling
