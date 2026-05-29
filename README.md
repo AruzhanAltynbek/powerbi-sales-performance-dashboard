@@ -5,10 +5,13 @@ Project Overview
 
 This project presents an interactive Power BI dashboard developed to analyze sales performance, profitability, customer behavior, and product category efficiency using the Superstore dataset.
 The dashboard helps transform raw transactional data into actionable business insights through KPI monitoring, trend analysis, customer segmentation, and profitability assessment.
+
 Tools: Power BI, Power Query, DAX
+
 Dataset: Superstore Sales Dataset
 
 Business Objectives
+
 The dashboard was designed to answer the following business questions:
 How are sales and profit changing over time?
 Which product categories generate the highest revenue and profit?
@@ -18,7 +21,9 @@ What shipping methods are used most frequently?
 Which business segments demonstrate the strongest performance?
 
 Data Preparation
+
 Data preparation was performed in Power Query and included:
+
 Data cleaning and validation
 Handling missing values
 Removing duplicates
@@ -27,6 +32,7 @@ Creating a Date Table for time intelligence calculations
 Building a Star Schema data model
 
 Dashboard Structure
+
 1. Executive Overview
 High-level business performance monitoring:
 Total Sales
