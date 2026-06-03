@@ -35,30 +35,37 @@ Dashboard Structure
 
 1. Executive Overview
 High-level business performance monitoring:
-Total Sales
-Total Profit
-Margin %
-Average Order Value
-Year-over-Year Growth
+Total Sales,
+Total Profit,
+Margin %,
+Average Order Value,
+Year-over-Year Growth,
+<img width="856" height="377" alt="image" src="https://github.com/user-attachments/assets/5885c6fa-a2ef-4284-a904-ea1048817108" />
+
 2. Product & Category Analysis
 Analysis of:
-Product performance
-Category profitability
-Sales distribution by category
-Margin comparison
+Product performance,
+Category profitability,
+Sales distribution by category,
+Margin comparison,
+<img width="785" height="334" alt="image" src="https://github.com/user-attachments/assets/a5c906a7-dc30-49ef-bbfb-1d9e3dfb84f1" />
+
 3. Customer Analysis
 Analysis of:
-Top customers
-Customer profitability
-Average order value
-Order frequency
+Top customers,
+Customer profitability,
+Average order value,
+Order frequency,
 Customer purchasing behavior
+<img width="837" height="428" alt="image" src="https://github.com/user-attachments/assets/c7e76edd-e03d-4cca-8684-25c8a55ce437" />
+
 4. Geo & Trends Analysis
 Analysis of:
-Sales by geography
-Regional performance
-Shipping methods
-Monthly profit trends
+Sales by geography,
+Regional performance,
+Shipping methods,
+Monthly profit trends,
+<img width="864" height="415" alt="image" src="https://github.com/user-attachments/assets/b4478f83-3a4d-426e-8a5d-1a78a98a27f5" />
 
 DAX Measures
 
